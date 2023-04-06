@@ -22,7 +22,7 @@ This is a simple command-line implementation of the classic game Tic Tac Toe in 
 The source code is written in C and contains the following functions:
 
 ```c
- resetBoard() : Initializes the game board with empty spaces.
+ resetBoard() Initializes the game board with empty spaces.
 ```
 ```c
 printBoard(): Prints the current state of the game board to the console.
